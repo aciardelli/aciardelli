@@ -1,4 +1,5 @@
-### Hi there 👋
+# About Me
+Hi, I am Anthony Ciardelli, a Computer Science Student at Texas A&M University! I enjoy working on web development projects and learning new technologies.
 
 <!--
 **aciardelli/aciardelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
