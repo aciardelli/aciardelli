@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Anthony Ciardelli. I am a student at Texas A&M and an aspiring software engineer. One of my main hobbies is watching MLB and keeping up with the Tampa Bay Rays. I also really enjoy going to amusement parks. In tech I like to work with web applications, but recently I have found an interest in machine learning. 
+Hi! My name is Anthony Ciardelli. I am a student at Texas A&M and an aspiring software engineer.
 
 
 ## 🌐 Socials:
