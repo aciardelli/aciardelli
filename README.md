@@ -1,2 +1,2 @@
-# Hi, I'm Anthony Ciardelli 👋:
+# Hi, I'm Anthony 👋:
 I like to build cool software and look at baseball numbers.
